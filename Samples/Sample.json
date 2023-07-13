@@ -1,0 +1,99 @@
+{
+  "MappingValues": "versionKey = Version || gmmCodeKey = Central Product Code || receiptQuantityKey =  || shipmentDateKey =  || arrivalDateKey = ",
+  "SupplyPlanMapping": [
+    {
+      "Key": "Version",
+      "Value": "Version"
+    },
+    {
+      "Key": "GMM",
+      "Value": "Central Product Code"
+    },
+    {
+      "Key": "Receipt Quantity in Customer Local Units",
+      "Value": "Receipt Quantity (units)"
+    },
+    {
+      "Key": "Shipment date",
+      "Value": "ATD (Plan)"
+    },
+    {
+      "Key": "Arrival date",
+      "Value": "ATA Custom Post (Plan)"
+    }
+  ],
+  "TableMetadata": [
+    {
+      "Key": "Id",
+      "Value": "Id"
+    },
+    {
+      "Key": "Created on",
+      "Value": "CreatedOn"
+    },
+    {
+      "Key": "Created by",
+      "Value": "CreatedBy"
+    },
+    {
+      "Key": "Modified on",
+      "Value": "ModifiedOn"
+    },
+    {
+      "Key": "Modified by",
+      "Value": "ModifiedBy"
+    },
+    {
+      "Key": "Active processes",
+      "Value": "ProcessListeners"
+    },
+    {
+      "Key": "№",
+      "Value": "nbcName"
+    },
+    {
+      "Key": "Notes",
+      "Value": "nbcNotes"
+    },
+    {
+      "Key": "GMM",
+      "Value": "nbcGmmCode"
+    },
+    {
+      "Key": "Site",
+      "Value": "nbcSite"
+    },
+    {
+      "Key": "Brand",
+      "Value": "nbcBrand"
+    },
+    {
+      "Key": "Receipt Quantity (units)",
+      "Value": "nbcQtyUnits"
+    },
+    {
+      "Key": "Receipt Quantity (pallets)",
+      "Value": "nbcQtyPallets"
+    },
+    {
+      "Key": "Receipt Quantity (trucks)",
+      "Value": "nbcQtyTrucks"
+    },
+    {
+      "Key": "Plan Costs",
+      "Value": "nbcPlanCosts"
+    },
+    {
+      "Key": "ATD (Plan)",
+      "Value": "nbcATD"
+    },
+    {
+      "Key": "ATA Custom Post (Plan)",
+      "Value": "nbcATACustomPost"
+    },
+    {
+      "Key": "Version",
+      "Value": "nbcVersion"
+    }
+  ]
+}

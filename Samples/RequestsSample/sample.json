@@ -1,0 +1,14 @@
+{
+  "Trip": {
+    "JourneyNumber": 31706,
+    "BusinessTripNumber": 33463
+  },
+  "Services": [
+    {
+      "OrderNumber": 1051949,
+      "ServiceNumber": 1
+    }
+  ],
+  "EventCode": "ExecutionStatusSucceeded",
+  "CompanyId": 47717
+}
